@@ -1,5 +1,6 @@
 # Semicolon Sound Extension
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+ [![VS Code Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/eacalahorra.semicolon-sound-extension.svg?label=VS%20Code%20Marketplace&color=blue)](https://marketplace.visualstudio.com/items?itemName=eacalahorra.semicolon-sound-extension)
 
 ## Welcome to the SSE.
 
