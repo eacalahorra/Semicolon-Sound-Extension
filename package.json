@@ -3,6 +3,10 @@
   "displayName": "Semicolon Sound Extension",
   "description": "An extension that plays a sound each time you press semicolon.",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eacalahorra/Semicolon-Sound-Extension"
+  },
   "engines": {
     "vscode": "^1.106.0"
   },
